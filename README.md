@@ -18,6 +18,7 @@ Use [amara.org](http://amara.org) or to speed things up upload to YouTube and [e
 
 ## Uploading
 Both YouTube and Facebook support captions in the SubRip format `.srt` so be sure to export in this format.
+If you want to 'burn in' the captions, you can use the same `.srt` file and import it into [caption burner](http://voxmedia.github.io/captions_burner/)
 
 ## Creative examples
 There are many publishers making creative use of burned-in captions on social media.
